@@ -1,0 +1,2 @@
+# StockPiper
+Analysing stocks
